@@ -1,4 +1,7 @@
- p {
+*{
+    background-color: aquamarine;
+}
+p {
             font-size: 15px;
             font-family: 'Zilla Slab', serif;
         }
